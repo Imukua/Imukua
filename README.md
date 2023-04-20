@@ -39,7 +39,7 @@ I'm a passionate software engineer with a background in biotechnology. I believe
 ----------
 
 -   Email: <ianmukuaa@gmail.com>
--   Twitter: [@Imukua](https://twitter.com/Imukua)
+-   Twitter: [@Imukua](https://twitter.com/I_mukua)
 -   LinkedIn: [linkedin.com/in/ian-mukua-b78484261](https://www.linkedin.com/in/ian-mukua-b78484261/)
 
 🚀 Interests
