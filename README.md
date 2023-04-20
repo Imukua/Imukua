@@ -45,7 +45,7 @@ I'm a passionate software engineer with a background in biotechnology. I believe
 🚀 Interests
 ------------
 
--   Contributing to open-source projects
+-   Contributing to open-source projects.
 -   Attending hackathons and coding challenges
 -   Exploring the intersection of technology and biotech
 
