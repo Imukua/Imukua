@@ -29,11 +29,20 @@ I'm a passionate software engineer with a background in biotechnology. I believe
 -   Database systems: SQL, MongoDB
 -   Biotech techniques: cell culture, PCR, gel electrophoresis, microscopy
 
-📚 Education
-------------
+<b>My GitHub Stats</b>
 
--   **ALX Software Engineering Program** (January 2022 - Present)
--   **Bachelor of Science in Biotechnology** from Jomo Kenyatta University of Agriculture and Technology (2018 - 2022)
+<a href="http://www.github.com/Imukua"><img src="https://github-readme-stats.vercel.app/api?username=Imukua&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Imukua's GitHub stats" /></a>
+
+<a href="http://www.github.com/Imukua"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Imukua&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Imukua"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Imukua&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Imukua" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imukua&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
 
 📧 Contact
 ----------
@@ -41,12 +50,3 @@ I'm a passionate software engineer with a background in biotechnology. I believe
 -   Email: <ianmukuaa@gmail.com>
 -   Twitter: [@Imukua](https://twitter.com/I_mukua)
 -   LinkedIn: [linkedin.com/in/ian-mukua-b78484261](https://www.linkedin.com/in/ian-mukua-b78484261/)
-
-🚀 Interests
-------------
-
--   Contributing to open-source projects.
--   Attending hackathons and coding challenges
--   Exploring the intersection of technology and biotech
-
-Thanks for stopping by! 👋
