@@ -12,8 +12,9 @@ I'm a passionate software engineer with a background in biotechnology. I believe
 🌱 Skills
 ---------
 
--   Programming languages: Java, Python, JavaScript, C
--   Web development: HTML, CSS, React, Node.js
+-   Programming languages: Python, JavaScript, C
+-   Frameworks - Django, Rest
+-   Web development: HTML, CSS, React, Node.js, React
 -   Database systems: SQL, MongoDB
 -   Biotech techniques: cell culture, PCR, gel electrophoresis, microscopy
 
