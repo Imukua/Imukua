@@ -7,19 +7,7 @@
 
 I'm a passionate software engineer with a background in biotechnology. I believe that technology can be a powerful tool in solving complex problems and improving people's lives. Currently, I'm studying software engineering at ALX to expand my skills and knowledge.
 
-💼 Experience
--------------
 
--   **Software Engineering Intern** at Uninets (September 2022 - December 2022)
-
-    -   Collaborated with a team of developers to build a new web application using React.js
-    -   Integrated APIs and data visualizations to create an intuitive user interface
-    -   Gained experience in Agile development methodologies and project management tools
--   **Biotech Research Assistant** at KEFRI (September 2021 - December 2021)
-
-    -   Conducted experiments to investigate the impact of climate change on forest ecosystems
-    -   Analyzed data using statistical software to identify significant findings
-    -   Presented findings at national conferences and published papers in peer-reviewed journals
 
 🌱 Skills
 ---------
