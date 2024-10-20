@@ -14,11 +14,10 @@ innovative solutions. Proven ability to thrive in fast-paced environments and ad
 🌱 Skills
 ---------
 
--   Programming languages: Python, JavaScript, C
--   Frameworks - Django, Rest
--   Web development: HTML, CSS, React, Node.js, React
--   Database systems: SQL, MongoDB
--   Biotech techniques: cell culture, PCR, gel electrophoresis, microscopy
+-   Programming languages: Python, JavaScript, C, Typescript
+-   Frameworks - Django, Nest, Next, React
+-   Database  : SQL, MongoDB, Postgres
+-   cloud : AWS
 
 📧 Github Stats
 ----------
