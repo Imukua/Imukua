@@ -5,7 +5,9 @@
 📝 About Me
 -----------
 
-I'm a passionate software engineer with a background in biotechnology. I believe that technology can be a powerful tool in solving complex problems and improving people's lives. Currently, I'm studying software engineering at ALX to expand my skills and knowledge.
+Highly motivated AWS re/Start graduate with a passion for cloud technology and a strong foundation in software
+development. Eager to leverage biotechnology background and newfound cloud expertise to contribute to
+innovative solutions. Proven ability to thrive in fast-paced environments and adapt to new technologies quickly.
 
 
 
